@@ -3,5 +3,7 @@
 }
 
 body{
-    background-image: url('DonPiranha/imgs/construction.png');
+    background-position: center top;
+    background-image: url('imgs/construction.png');
+    background-repeat: no-repeat;
 }
